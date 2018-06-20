@@ -1,0 +1,76 @@
+{
+	"daily": [
+		{
+			"source": "2xToon-Aanvang.mp3",
+			"time": "08:15"
+		},
+		{
+			"source": "2xToon-5min pauze.mp3",
+			"time": "09:20"
+		},
+		{
+			"source": "Einde-Pauze.mp3",
+			"time": "09:25"
+		},
+		{
+			"source": "2xToon-Koffiepauze-1groep.mp3",
+			"time": "10:00"
+		},
+		{
+			"source": "Einde-Pauze.mp3",
+			"time": "10:15"
+		},
+		{
+			"source": "2xToon-Koffiepauze-2groep.mp3",
+			"time": "10:30"
+		},
+		{
+			"source": "Einde-Pauze.mp3",
+			"time": "10:45"
+		},
+		{
+			"source": "2xToon-5min pauze.mp3",
+			"time": "11:25"
+		},
+		{
+			"source": "Einde-Pauze.mp3",
+			"time": "11:30"
+		},
+		{
+			"source": "2xToon-Lunch-1group.mp3",
+			"time": "12:00"
+		},
+		{
+			"source": "Einde-Pauze.mp3",
+			"time": "12:30"
+		},
+		{
+			"source": "2xToon-Lunch-2group.mp3",
+			"time": "12:40"
+		},
+		{
+			"source": "Einde-Pauze.mp3",
+			"time": "13:10"
+		},
+		{
+			"source": "2xToon-5min pauze.mp3",
+			"time": "13:35"
+		},
+		{
+			"source": "Einde-Pauze.mp3",
+			"time": "13:40"
+		},
+		{
+			"source": "2xToon-Theepauze.mp3",
+			"time": "14:50"
+		},
+		{
+			"source": "Einde-Pauze.mp3",
+			"time": "15:05"
+		},
+		{
+			"source": "2xToon-Einde.mp3",
+			"time": "16:15"
+		}
+	]
+}
